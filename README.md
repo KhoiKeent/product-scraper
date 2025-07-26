@@ -1,2 +1,13 @@
-# product-scraper
-Web Scraper - 1st Phase of AI Search Engine
+
+cd path/to/product_scraper_redo
+
+# Initialize Git
+git init
+git add .
+git commit -m "Initial commit"
+
+# Replace this with your own GitHub repo URL
+git remote add origin https://github.com/your-username/product-scraper.git
+git branch -M main
+git push -u origin main
+
